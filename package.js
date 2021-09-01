@@ -20,6 +20,7 @@ Package.onUse(function(api) {
     'check',
     'ostrio:flow-router-extra',
     'underscore',
+	'ecmascript',
     'useraccounts:core',
     'modules'
   ], ['client', 'server']);
